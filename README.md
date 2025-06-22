@@ -11,5 +11,6 @@
 - `string`: contains the string problems like KMP algorithm
 - `sorting`: contains the sorting problems like merge sort and gap method
 - `searching`: contains the searching problems like binary search
+- `Matrix`: contains the matrix problems like spiral traversal and search in sorted matrix
 
 similarly for the other problems
