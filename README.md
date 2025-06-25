@@ -12,5 +12,6 @@
 - `sorting`: contains the sorting problems like merge sort and gap method
 - `searching`: contains the searching problems like binary search
 - `Matrix`: contains the matrix problems like spiral traversal and search in sorted matrix
+- `Hashing`: contains the hashing problems like two sum, three sum and number of subarrays with given sum
 
 similarly for the other problems
